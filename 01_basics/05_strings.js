@@ -3,7 +3,7 @@ const repo_count = 500
 
 // console.log(`My name is ${name} and my repo count is ${repo_count}`)
 
-const gameName = new String('marketer')
+const gameName = new String('marketer') //gives key vlaue pairs when called
 // console.log(gameName[0])
 // console.log(gameName.__proto__)
 console.log(gameName.toUpperCase())
